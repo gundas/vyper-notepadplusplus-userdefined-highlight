@@ -8,8 +8,6 @@
 4. Reopen your .vy files
 
 
-
-
-# Inspiration
+### Inspiration
 
 [Notepad++ user-defined syntax highlight Ethereum Solidity Language](https://github.com/alin1popa/solidity-notepadplusplus-userdefined-highlight)
